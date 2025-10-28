@@ -311,7 +311,7 @@ int main() {
 ```
 
 > Screenshoot 
-> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-4/blob/main/Modul%204/screenshoot/Screenshot%20(85).png)
+> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-6/blob/main/Modul%206/Screenshoot/Screenshot%20(125).png)
 
 
 Program ini berfungsi untuk mempraktikkan konsep dasar pengelolaan data dinamis menggunakan pointer dalam Doubly Linked List.
@@ -367,7 +367,7 @@ void deleteAfter(address Prec, address &P);
 ```
 
 > Screenshoot  
-> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-4/blob/main/Modul%204/screenshoot/Screenshot%20(86).png)
+> ![Screenshot Soal 1](https://github.com/salfiayu/Modul-6/blob/main/Modul%206/Screenshoot/Screenshot%20(127).png)
 
 File ini berfungsi sebagai kerangka (blueprint) untuk implementasi logika Doubly Linked List yang akan ditulis di file Doublylist.cpp.
 
@@ -480,7 +480,7 @@ void deleteAfter(address Prec, address &P) {
 ```
 
 > Sreenshoot 
-> ![Screenshot Soal 2](https://github.com/salfiayu/Modul-4/blob/main/Modul%204/screenshoot/Screenshot%20(87).png)
+> ![Screenshot Soal 2](https://github.com/salfiayu/Modul-6/blob/main/Modul%206/Screenshoot/Screenshot%20(128).png)
 
 Mengimplementasikan Doubly Linked List dengan fungsi dasar seperti CreateList, insertLast, printInfo, findElm, deleteFirst, deleteLast, deleteAfter. Struktur ini memungkinkan pengelolaan data dua arah melalui pointer next dan prev.
 
@@ -563,7 +563,7 @@ int main() {
 ```
 
 > Sreenshoot 
-> ![Screenshot Soal 2](https://github.com/salfiayu/Modul-4/blob/main/Modul%204/screenshoot/Screenshot%20(87).png)
+> ![Screenshot Soal 3](https://github.com/salfiayu/Modul-6/blob/main/Modul%206/Screenshoot/Screenshot%20(129).png)
 
 Kode di atas adalah program utama yang mengelola data kendaraan menggunakan Doubly Linked List.
 
